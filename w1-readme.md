@@ -28,6 +28,10 @@ TLS هم چنین می تواند رمز گذاری ایمیل پیام رسان
 
 داندر متد  sizeof  اندازه ی داخلی یک شی خاص را که در حافظه اشغال می کند را برمیگرداند
 
+git stash چیه؟؟؟؟
+یعنی تغییرات رو بدون commit کردن اعمال کنیم و هروقت خواستیم push کنیم بره بالا
+
+
 
 
 ![This is an image](https://refactoring.guru/images/refactoring/content/refactoring.png?id=91fe4caeecfd33ec58f3)
