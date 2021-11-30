@@ -25,6 +25,9 @@ Aggregation و Composition ایده ی ورای بسیاری از الگوهای
 <p>
 ساختار زیر به خوبی این موضوع را نمایش می دهد:
 </p>
+
+  
+  <p> مینا شیخ</p>
 </div>
 
 ![enter image description here](https://refactoring.guru/images/patterns/diagrams/decorator/structure.png?id=8c95d894aecce5315cc1)
